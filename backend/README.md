@@ -1,1 +1,0 @@
-A python mini transactions tracker project.
